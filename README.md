@@ -13,6 +13,9 @@ This repository contains a project for detecting DDoS attacks in Software-Define
 -   **Traffic Analysis**: [CICFlowMeter](https://github.com/hieulw/cicflowmeter/tree/master)
 -   **Prediction API**: Python with [FastAPI](https://fastapi.tiangolo.com/) / [Uvicorn](https://www.uvicorn.org/)
 
+## Data Collecting
+The CICFlowMeter module has been modified to support the capture of TCP, UDP, and ICMP packets
+
 ---
 
 ## Getting Started
