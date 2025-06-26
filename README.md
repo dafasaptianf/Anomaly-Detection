@@ -54,3 +54,12 @@ This mode captures live traffic from a network interface, processes it, and send
 
 ```bash
 python -m cicflowmeter.sniffer -i 'your-network-interface' -c 'output.csv' -u 'http://localhost:8000/predict'
+```
+
+### Option B: Offline Analysis from a CSV File
+
+This mode is for analyzing pre-captured traffic from a local CSV file without sending it to the API
+
+```bash
+python -m cicflowmeter.sniffer -i 'your-network-interface' -c 'your-file-name.csv'
+```
