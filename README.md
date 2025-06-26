@@ -10,7 +10,7 @@ This repository contains a project for detecting DDoS attacks in Software-Define
 ## Technologies Used
 -   **SDN Controller**: [ONOS](https://opennetworking.org/onos/)
 -   **Network Emulator**: [Mininet](http://mininet.org/)
--   **Traffic Analysis**: [CICFlowMeter](https://github.com/hieulw/cicflowmeter/tree/master)
+-   **Traffic Analysis**: [CICFlowMeter](https://github.com/ahlashkari/CICFlowMeter)
 -   **Prediction API**: Python with [FastAPI](https://fastapi.tiangolo.com/) / [Uvicorn](https://www.uvicorn.org/)
 
 ---
