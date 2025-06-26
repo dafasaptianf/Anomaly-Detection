@@ -8,6 +8,6 @@ python -m cicflowmeter.sniffer -i 'virtual-ethernet' -c 'nama-file.csv'
 python -m cicflowmeter.sniffer -i 'virtual-ethernet' -c 'nama-file.csv' -u 'end-point-API(ex: http://localhost:8000/predict)'
 
 
-# #Aktivasi Modul Deteksi (venv310)
+## Aktivasi Modul Deteksi (venv310)
 - Folder Mitigate
 uvicorn deteksi:app --reload --port 8000
