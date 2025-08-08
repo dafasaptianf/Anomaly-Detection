@@ -66,3 +66,9 @@ This mode is for analyzing pre-captured traffic from a local CSV file without se
 ```bash
 python -m cicflowmeter.sniffer -i 'your-network-interface' -c 'your-file-name.csv'
 ```
+
+### YouTube Videos
+
+To see a video demo of this project, please see the link below.
+
+https://youtu.be/CCrEIj7xQPg
