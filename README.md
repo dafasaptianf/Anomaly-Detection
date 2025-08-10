@@ -67,8 +67,8 @@ This mode is for analyzing pre-captured traffic from a local CSV file without se
 python -m cicflowmeter.sniffer -i 'your-network-interface' -c 'your-file-name.csv'
 ```
 
-### YouTube Videos
+### Documentation
 
-To see a video demo of this project, please see the link below.
+To see a video demo and highlight story of this project, please see the link below.
 
-https://youtu.be/CCrEIj7xQPg
+[YouTube Video](https://youtu.be/CCrEIj7xQPg) | [Medium Story](https://medium.com/@dafasaptian2304/anomaly-detection-and-mitigation-for-ddos-attacks-in-sdn-using-machine-learning-1bf1bf495f56)
